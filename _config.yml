@@ -1,0 +1,15 @@
+title: Mi Blog sobre IA
+description: > # esto significa que va a continuar en la siguiente línea
+  Este es mi espacio personal donde comparto mi viaje en el mundo de la IA.
+baseurl: "" # la base de tu URL relativa al dominio, por ejemplo "/blog" si tu sitio está en "example.com/blog"
+url: "https://jdiez-go.github.io" # el URL de tu sitio
+twitter_username: jdiezgo # tu nombre de usuario de Twitter si deseas integrarlo
+github_username:  jdiez-go # tu nombre de usuario de GitHub
+
+theme: jekyll-theme-primer # el tema que estás usando
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
