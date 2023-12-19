@@ -1,6 +1,6 @@
 ## 🚀 Construye tu IA en la Nube: La Puerta a la Innovación para Estudiantes 🌐 ##
 
-![Comunidad Global de IA](/images/innovative-ai-community.jpg)
+![Comunidad Global de IA](/images/innovative-ai-community.png)
 
 Imagina un mundo interconectado donde tus ideas cobran vida en segundos, donde tus creaciones de IA aprenden y crecen 🧠✨. Este mundo ya existe en la nube ☁️, una arena sin límites para estudiantes y entusiastas como tú. AWS, Azure, Google Cloud y Oracle Cloud son los coliseos digitales donde tus sueños de IA luchan, aprenden y triunfan 🥇.
 
